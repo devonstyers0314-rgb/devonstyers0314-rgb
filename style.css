@@ -1,0 +1,36 @@
+/* Background color*/
+
+body {
+    background-color:#ebebea;  
+    font-family: Arial, sans-serif;
+}
+
+/* headers */
+
+h1 {
+    color:#415146;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding:20px
+}
+
+h2 {
+    color:#415146;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding:10px;
+}
+/* paragraphs */
+
+p {
+color:#c7995d;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+padding:20px
+}
+
+div{
+    width:250px;
+    height:100px;
+    background-color:#a43130;
+    border: 5px solid black;
+    padding:5px;
+    margin:50px;
+}
