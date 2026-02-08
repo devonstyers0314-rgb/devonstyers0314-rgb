@@ -6,3 +6,6 @@
 ## Description
 > Project 2 requires creating a new, public repository under my username, and making my webpage from Project 1 publicly available.
 
+[View my Profile here](https://github.com/devonstyers0314-rgb)
+
+[View the live website here](https://github.com/devonstyers0314-rgb/devonstyers0314-rgb)
