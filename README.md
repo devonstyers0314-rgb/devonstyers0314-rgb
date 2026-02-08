@@ -8,4 +8,4 @@
 
 [View my Profile here](https://github.com/devonstyers0314-rgb)
 
-[View the live website here](https://github.com/devonstyers0314-rgb/devonstyers0314-rgb)
+[View the live website here](https://devonstyers0314-rgb.github.io/)
